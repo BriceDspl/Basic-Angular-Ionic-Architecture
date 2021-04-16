@@ -1,0 +1,5 @@
+<ion-buttons>
+  <ion-button *ngFor="let menu of menus" (click)="openMenu(menu)" [routerLink]="menu.routerLink" routerLinkActive="active-link">
+    <ion-icon slot="icon-only" name="{{ menu.icon }}"></ion-icon>
+  </ion-button>
+</ion-buttons>
