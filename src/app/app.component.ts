@@ -6,7 +6,7 @@ import { TranslateService } from '@ngx-translate/core';
   template: '<ion-router-outlet></ion-router-outlet>',
 })
 export class AppComponent implements OnInit {
-  title = 'MyManganimeList';
+  title = 'Basic-Angular-Ionic-Architecture';
 
   constructor(private translate: TranslateService) {}
 

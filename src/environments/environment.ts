@@ -4,15 +4,6 @@
 
 export const environment = {
   production: false,
-  firebaseConfig: {
-    apiKey: 'AIzaSyCPZd9f4bgSHBsFT3LFJGklq3uRc8thiaI',
-    authDomain: 'mymanganimelist-3854e.firebaseapp.com',
-    projectId: 'mymanganimelist-3854e',
-    storageBucket: 'mymanganimelist-3854e.appspot.com',
-    messagingSenderId: '458260373528',
-    appId: '1:458260373528:web:26fe01ec418efb6303236d',
-    measurementId: 'G-NE8KDV56GQ',
-  },
 };
 
 /*

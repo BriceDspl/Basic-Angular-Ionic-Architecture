@@ -30,8 +30,7 @@ export class MenuTabActionsComponent implements OnInit {
 
   async openMenu(menu: IMenu): Promise<void> {
     if (!menu.routerLink) {
-      this.menu.enable(true, 'myList');
-      this.menu.open('myList');
+      this.menu.toggle('myList');
     }
   }
 }

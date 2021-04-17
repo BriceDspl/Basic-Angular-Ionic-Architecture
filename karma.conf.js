@@ -25,7 +25,7 @@ module.exports = function (config) {
       suppressAll: true // removes the duplicated traces
     },
     coverageReporter: {
-      dir: require('path').join(__dirname, './coverage/MyManganimeList'),
+      dir: require('path').join(__dirname, './coverage/Basic-Angular-Ionic-Architecture'),
       subdir: '.',
       reporters: [
         { type: 'html' },
