@@ -1,5 +1,17 @@
-# MyManganimeList
+# Basic Angular Ionic Architecture
 
+## Overview
+
+- This repository is, as named, a basic modular angular with ionic architecture. 
+- I made it as a starter for my differents angular responsive project. It make me win time to initiate project.
+- I will improve this basic archi with complementary modules such as Firebase later, in another branch.
+- I will also improve the basic archi, such as implementing differents themes, add @core services if needed, etc...
+- Feel free to ask for improvments or warning about my code, i'm still a junior !
+
+
+## Author & Licence
+Made by myself.
+Fell free to use for your own projects, just don't forget to mention me as a contributor (Not mandatory but always rewarding).
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
 
 ## Development server
